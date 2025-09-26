@@ -34,6 +34,8 @@ This allows the model to learn **inter-scale relationships** (e.g., coarse struc
 ## 📁 Dataset Structure
 
 Expected directory layout:
+![Image alt](https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/dataset_structure.png)
+
 /data_dir/
 ├── labels_all.csv
 ├── high_mag_256/
