@@ -38,7 +38,12 @@ This allows the model to learn **inter-scale relationships** (e.g., coarse struc
 Expected directory layout:
 ![Image alt](https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/dataset_structure.png)
 
+<img src="https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/dataset_structure.png" width="500">
+
+
 > 💡 All patches for a given sample share the same `num_id` (extracted from filename prefix).
+
+![Image alt](https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/Image_example.png)
 
 ---
 
