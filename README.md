@@ -5,6 +5,8 @@ This repository contains code for a multi-input deep learning model designed to 
 The experiments evaluate how the number of input magnifications (1–4) affects performance on a binary classification task (e.g., tumor vs. normal tissue).
 
 ---
+![Image alt](https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/Model_diagr.png)
+
 
 ## 🔍 Overview
 
