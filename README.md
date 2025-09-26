@@ -36,18 +36,6 @@ This allows the model to learn **inter-scale relationships** (e.g., coarse struc
 Expected directory layout:
 ![Image alt](https://github.com/Ruiu4317/Multi_input_network-Histologia-/blob/main/dataset_structure.png)
 
-/data_dir/
-├── labels_all.csv
-├── high_mag_256/
-├── high_mag_512/
-├── high_mag_1024/
-└── high_mag_2048/
-
-
-`labels_all.csv` must contain:
-- `filename`: ID of the sample (e.g., `123_patch_0`)
-- `label`: class label (0 or 1)
-
 > 💡 All patches for a given sample share the same `num_id` (extracted from filename prefix).
 
 ---
